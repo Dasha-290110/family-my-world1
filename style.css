@@ -1,0 +1,23 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+.div_tag{
+    float: none;
+    background-color: rgb(0, 225, 255);
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.div_names{
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 221);
+}
+
+
